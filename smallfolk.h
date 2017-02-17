@@ -35,6 +35,7 @@ enum LuaTypeTag
     TNUMBER,
     TTABLE,
     TBOOL,
+    TTEST,
 };
 
 class LuaVal
